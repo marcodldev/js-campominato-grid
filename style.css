@@ -41,5 +41,17 @@
  }
 
  .active {
-    background-color: rebeccapurple;
+    background-color: darkslateblue;
+    color: white;
  }
+
+ main {
+    width: 70%;
+    margin: auto;
+ }
+
+ .purple {
+    background-color: darkslateblue;
+ }
+
+ 

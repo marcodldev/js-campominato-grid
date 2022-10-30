@@ -31,6 +31,10 @@ bottone.addEventListener('click', function() {
             this.classList.toggle('active');
         })
 
+        elementoCorrente.innerHTML = i;
+        elementoCorrente.classList.add("text-center","align-items-center");
+
+
         griglia.append(elementoCorrente);
     }
 
